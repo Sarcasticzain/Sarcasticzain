@@ -42,7 +42,7 @@
 ## 🏆 Competitive Programming & Coding Platforms
 
 <p align="center">
-  <a href="https://leetcode.com/Sarcasticzain" target="_blank">
+  <a href="https://leetcode.com/u/Sarcasticdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/Sarcasticzain" target="_blank">
@@ -56,11 +56,11 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://leetcode.com/Sarcasticzain">
-    <img src="https://leetcard.jacoblin.cool/Sarcasticzain?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+<p align="center">
+  <a href="https://leetcode.com/u/Sarcasticdeveloper/">
+    <img src="https://leetcard.jacoblin.cool/Sarcasticdeveloper?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
-</div>
+</p>
 
 <hr/>
 
@@ -95,29 +95,66 @@
 
 ### 🛡️ [WebSec PRO v3.0](https://github.com/Sarcasticzain/WebSec-PRO)
 Comprehensive web security and recon suite featuring Port Scanning, WHOIS lookup, Tech Stack Detection, Malware DB checking & Cookie Deep Dive.
-* **Tech:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Security-00F5A0?style=flat-square&logo=shield&logoColor=black" />
+* **Tech:** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/Security-00F5A0?style=flat-square&logo=shield&logoColor=black" alt="Security"/>
 * **Links:** [View Repository](https://github.com/Sarcasticzain/WebSec-PRO) | [Launch App](WebSec.html)
 
 ### 🌤️ [Whaather v3](https://github.com/Sarcasticzain/Whaather-v3)
 Sleek, real-time weather forecasting application designed for instant updates without requiring client-side API key configuration.
-* **Tech:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img srcIt looks like the alignment for the main stats card is spot on! However, the "GitHub Stats" and "Top Languages" links in `image_aef70a.png` currently look like standard text with a forced background color and default underlines. This clashes with the sleek dark theme of your dashboard. 
+* **Tech:** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+* **Links:** [View Repository](https://github.com/Sarcasticzain/Whaather-v3) | [Launch App](whaather-v3.html)
 
-To fix this, you should style them as proper toggle buttons or tabs, removing the default underline and giving them some breathing room with padding. 
+<hr/>
 
-Since you are working with a dark-themed dashboard, here is how you can style them cleanly using **Tailwind CSS**. 
+## 📈 GitHub Analytics
 
-### The Solution: UI Tabs
-You can create a distinct "active" state for the tab you are currently on, and an "inactive" state for the other one.
+<p align="center">
+  <a href="https://github.com/Sarcasticzain">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarcasticzain&show_icons=true&theme=tokyonight&hide_border=false" height="175" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sarcasticzain">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarcasticzain&layout=compact&theme=tokyonight&hide_border=false" height="175" alt="Top Languages" />
+  </a>
+</p>
 
-```html
-<div class="flex justify-center space-x-2 mb-6">
-  <!-- Active Tab (e.g., GitHub Stats) -->
-  <button class="px-4 py-2 bg-gray-800 text-blue-400 rounded-md text-sm font-semibold shadow-sm border border-gray-700 transition-colors">
-    GitHub Stats
-  </button>
-  
-  <!-- Inactive Tab (e.g., Top Languages) -->
-  <button class="px-4 py-2 bg-transparent text-gray-400 rounded-md text-sm font-medium hover:text-gray-200 hover:bg-gray-800 transition-colors">
-    Top Languages
-  </button>
+<p align="center">
+  <a href="https://github.com/Sarcasticzain">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarcasticzain&theme=tokyonight&hide_border=false" height="170" alt="GitHub Streak" />
+  </a>
+</p>
+
+<hr/>
+
+## 📫 Find Me Here & Connect
+
+<div align="center">
+
+<a href="https://github.com/Sarcasticzain" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/zain-ul-arfeen-sarcastic-developer-7a33b9381/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://youtube.com/@sarcasticdeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://discord.gg/Fds2kyGHEF" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://x.com/sarcastic__dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.instagram.com/sarcastic.developer" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://t.me/sarcasticdeveloper" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+<br/><br/>
+
+**💖 Support My Work**<br/>
+<a href="https://www.patreon.com/Sarcastic_developer" target="_blank">
+  <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+</a>
+
 </div>
