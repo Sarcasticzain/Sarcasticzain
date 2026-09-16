@@ -46,25 +46,11 @@
 </div>
 
 ###
+## My Contribution Graph
 
-import { ArcadeRenderer } from 'pacman-contribution-graph';
-
-// Replace [game-name] with a valid game name
-const renderer = new ArcadeRenderer({
-	game: '[game-name]',
-	username: 'your_username',
-	platform: 'github', // or 'gitlab'
-	gameTheme: 'github-dark', // 'github', 'github-dark', 'gitlab', or 'gitlab-dark'
-	playerStyle: 'opportunistic', // Pac-Man only: 'conservative', 'aggressive', or 'opportunistic'
-	svgCallback: (svg) => {
-		// called with the generated SVG string
-		document.getElementById('output').innerHTML = svg;
-	},
-	gameOverCallback: () => {
-		console.log('Game over!');
-	},
-	pointsIncreasedCallback: (points) => {
-		console.log('Score:', points);
-	}
-});
-renderer.start();
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
