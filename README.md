@@ -57,8 +57,8 @@
 </p>
 
 <div align="center">
-  <a href="https://leetcode.com/Sarcasticzain">
-    <img src="https://leetcard.jacoblin.cool/Sarcasticzain?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Sarcasticdeveloper">
+    <img src="https://leetcode.com/u/Sarcasticdeveloper?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
