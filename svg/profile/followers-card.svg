@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="76" viewBox="0 0 260 76" role="img" aria-labelledby="followers-title followers-desc">
+  <title id="followers-title">Followers: 59</title>
+  <desc id="followers-desc">A beveled dark profile statistics card.</desc>
+  <defs>
+    <linearGradient id="panel-followers" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17243d"/>
+      <stop offset="0.52" stop-color="#0c1425"/>
+      <stop offset="1" stop-color="#080d19"/>
+    </linearGradient>
+    <linearGradient id="edge-followers" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.95"/>
+      <stop offset="0.48" stop-color="#9aa9c6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.52"/>
+    </linearGradient>
+    <linearGradient id="value-followers" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="shadow-followers" x="-20%" y="-35%" width="145%" height="190%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.65"/>
+    </filter>
+    <filter id="glow-followers" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Lower offset edge gives the card a subtle 3D/extruded profile. -->
+  <rect x="9" y="10" width="242" height="59" rx="14" fill="#03060d" stroke="#a78bfa" stroke-opacity="0.48" stroke-width="1.4"/>
+  <rect x="8" y="5" width="242" height="59" rx="14" fill="url(#panel-followers)" stroke="url(#edge-followers)" stroke-width="1.5" filter="url(#shadow-followers)"/>
+  <path d="M23 6.5h212" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1" stroke-linecap="round"/>
+  <path d="M10 20v28" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" filter="url(#glow-followers)"/>
+  <text x="23" y="29" fill="#9cadc6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">FOLLOWERS</text>
+  <text x="23" y="52" fill="url(#value-followers)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="0.3">59</text>
+  <rect x="197" y="15" width="39" height="38" rx="10" fill="#0b1324" stroke="#a78bfa" stroke-opacity="0.38"/>
+  <path d="M216 31a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm11 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zm-11 2c-5 0-9 3-9 7v3h18v-3c0-4-4-7-9-7zm11 1h-1c2 2 3 4 3 6v3h7v-3c0-3-4-6-9-6z" fill="none" stroke="#a78bfa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M207 54h19" stroke="#a78bfa" stroke-opacity="0.7" stroke-width="1" stroke-linecap="round"/>
+</svg>
