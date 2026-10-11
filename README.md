@@ -84,12 +84,7 @@ I’m **Zain Ul Arfeen**, a developer focused on learning by building. My work c
 </p> <p align="center"><em>Thanks for visiting — keep building, keep learning, and keep improving.</em></p> <details>
   <summary><strong>Run the flower animation locally</strong></summary>
 
-Install the Python packages, then run this from the repository root:
 
-```bash
-python -m pip install -r requirements.txt
-python scripts/peony_live.py
-```
 
 Press **Esc** to close the animation, or **S** to save a screenshot.
 
