@@ -83,5 +83,3 @@ I’m **Zain Ul Arfeen**, a developer focused on learning by building. My work c
   <a href="https://t.me/sarcasticdeveloper"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p> <p align="center"><em>Thanks for visiting — keep building, keep learning, and keep improving.</em></p> <details>
 
-
-</details>
